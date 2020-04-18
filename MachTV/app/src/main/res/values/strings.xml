@@ -1,0 +1,21 @@
+<resources>
+    <string name="a_name">三生三世十里桃花</string>
+    <string name="b_name">大秦帝国之崛起</string>
+    <string name="c_name">那片星空那片海</string>
+    <string name="d_name">射雕英雄传</string>
+    <string name="e_name">中国式相亲</string>
+    <string name="app_name">MachTV</string>
+    <string name="drawer_open">打开了</string>
+    <string name="drawer_close">关闭了</string>
+    <string name="Home_title">Home</string>
+    <string name="Blog_title">Blog</string>
+    <string name="neterror_tip">数据加载失败，请检查网络！</string>
+    <string name="loading_tip">数据加载中，请稍等！</string>
+    <string name="About_title">About</string>
+    <string name="app_info">应用介绍: \n
+        1. \n
+        2. \n
+        3. \n
+        4. \n
+    </string>
+</resources>
